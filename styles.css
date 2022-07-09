@@ -95,3 +95,11 @@ img {
   border: 4px solid #3882F6;
   border-radius: 15px;
 }
+
+.quote {
+  padding: 100px;
+  background-color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
