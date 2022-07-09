@@ -130,3 +130,14 @@ img {
   justify-content: center;
   align-items: center;
 }
+
+.action {
+  background-color: #3882F6;
+  color: white;
+  width: 1000px;
+  margin: 100px;
+  padding: 50px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+}
