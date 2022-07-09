@@ -124,3 +124,9 @@ img {
   font-style: normal;
   font-weight: bold;
 }
+
+.four {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
