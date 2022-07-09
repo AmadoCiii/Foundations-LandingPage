@@ -22,3 +22,11 @@ header {
   font-weight: 900;
   color: #F9FAF8;
 }
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 16px;
+}
