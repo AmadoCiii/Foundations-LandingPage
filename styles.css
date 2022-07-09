@@ -115,3 +115,12 @@ img {
   font-style: italic;
   color: #1F2937;
 }
+
+.thor {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 60px;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+}
