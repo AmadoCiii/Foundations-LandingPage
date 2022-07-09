@@ -36,3 +36,10 @@ a {
   font-size: 18px;
   color: #E5E7EB;
 }
+
+.one {
+  background-color: #1F2937;
+  padding: 110px;
+  display: flex;
+  justify-content: space-around;
+}
