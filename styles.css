@@ -155,3 +155,7 @@ button {
   font-size: 18px;
   font-weight: bold;
 }
+
+.sign_up {
+  border: white solid 2px;
+}
